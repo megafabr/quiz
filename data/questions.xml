@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<questions>
+  <question minutes="5" points="1">
+    <text>Сколько будет 5 умножить на пять?</text>
+    <variants>
+      <variant>25</variant>
+      <variant>125</variant>
+      <variant right="true">25</variant>
+      <variant>225</variant>
+    </variants>
+  </question>
+  <question minutes="5" points="2">
+    <text>Сколько будет 15 в квадрате?</text>
+    <variants>
+    <variant>225</variant>
+    <variant>117</variant>
+    <variant right="true">225</variant>
+    <variant>676</variant>
+    </variants>
+  </question>
+  <question minutes="5" points="3">
+    <text>Сколько будет 25 в квадрате?</text>
+    <variants>
+    <variant>625</variant>
+    <variant>99</variant>
+    <variant right="true">625</variant>
+    <variant>1777</variant>
+    </variants>
+  </question>
+  <question minutes="8" points="5">
+    <text>Сколько будет 35 в квадрате?</text>
+    <variants>
+    <variant>1229</variant>
+    <variant right="true">1225</variant>
+    </variants>
+  </question>
+  <question minutes="10" points="1021">
+    <text>Сколько будет 405 в квадрате?</text>
+    <variants>
+      <variant>1225</variant>
+      <variant right="true">164025</variant>
+    </variants>
+  </question>
+  <question minutes="10" points="113">
+    <text>Сколько будет 105 в квадрате?</text>
+    <variants>
+      <variant>1225</variant>
+      <variant right="true">11025</variant>
+    </variants>
+  </question>
+  <question minutes="8" points="8">
+    <text>Сколько будет 45 в квадрате?</text>
+    <variants>
+      <variant>1225</variant>
+      <variant right="true">2025</variant>
+    </variants>
+  </question>
+</questions>
