@@ -1,3 +1,6 @@
+require_relative 'lib/quiz'
+require_relative 'lib/evaluation_of_response'
+require_relative 'lib/pluralizer'
 # encoding: utf-8
 
 # XXX/ Этот код необходим только при использовании русских букв на Windows
@@ -11,9 +14,6 @@ if (Gem.win_platform?)
 end
 # /XXX
 NUMBER_OF_QUESTIONS = 3
-require_relative 'lib/quiz'
-require_relative 'lib/evaluation_of_response'
-require_relative 'lib/pluralizer'
 
 # ---
 
